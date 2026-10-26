@@ -95,10 +95,10 @@
 
 <br>
 
-| 4. Spending Analytics | 5. Category History Drill-Down |
-|:---:|:---:|
-| <img src="docs/screenshots/analytics.png" width="250" alt="Spending Analytics" /> | <img src="docs/screenshots/category_drilldown.png" width="250" alt="Category History Drill-Down" /> |
-| **Interactive Donut & Bar Charts** | **Itemized Category Ledger Sheet** |
+| 4. Spending Analytics | 5. Category Drill-Down | 6. More Options Hub |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/analytics.png" width="250" alt="Spending Analytics" /> | <img src="docs/screenshots/category_drilldown.png" width="250" alt="Category Drill-Down" /> | <img src="docs/screenshots/more_options.png" width="250" alt="More Options Hub" /> |
+| **Interactive Donut & Bar Charts** | **Itemized Category Ledger Sheet** | **Goals, Accounts, Bills & Settings** |
 
 ---
 
