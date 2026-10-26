@@ -88,15 +88,17 @@
 
 ## 📱 Screen Previews
 
-> *Tip: You can replace the placeholders below with actual screenshots or animated GIFs of your app.*
-
-| 1. Dashboard | 2. Add Transaction | 3. Analytics & Charts |
+| 1. Dashboard | 2. Transactions Ledger | 3. Add Transaction |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/dashboard.png" width="260" alt="Dashboard Screen" /> | <img src="docs/screenshots/add_transaction.png" width="260" alt="Add Transaction" /> | <img src="docs/screenshots/analytics.png" width="260" alt="Analytics" /> |
+| <img src="docs/screenshots/dashboard.png" width="250" alt="Dashboard Screen" /> | <img src="docs/screenshots/transactions.png" width="250" alt="Transactions Ledger" /> | <img src="docs/screenshots/add_transaction.png" width="250" alt="Add Transaction" /> |
+| **Live Net Worth & Budget Progress** | **Smart Search, Filters & Sorting** | **Modal Transaction Logger** |
 
-| 4. Budget Management | 5. Accounts & Wallets | 6. Savings Goals |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/budget.png" width="260" alt="Budget Screen" /> | <img src="docs/screenshots/accounts.png" width="260" alt="Accounts Screen" /> | <img src="docs/screenshots/goals.png" width="260" alt="Goals Screen" /> |
+<br>
+
+| 4. Spending Analytics | 5. Category History Drill-Down |
+|:---:|:---:|
+| <img src="docs/screenshots/analytics.png" width="250" alt="Spending Analytics" /> | <img src="docs/screenshots/category_drilldown.png" width="250" alt="Category History Drill-Down" /> |
+| **Interactive Donut & Bar Charts** | **Itemized Category Ledger Sheet** |
 
 ---
 
